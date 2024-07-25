@@ -85,7 +85,6 @@
     <p>
         <strong>Mohammed Nishal</strong><br>
         Passionate Developer | Always Learning | Let's Connect | Committed to Excellence | Exploring New Technologies | Open to Opportunities!
-        
     </p>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Thank+you+for+visiting!;Feel+free+to+reach+out+or+connect!" />
 </footer>
